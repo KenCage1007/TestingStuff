@@ -54,7 +54,7 @@ The optimal page replacement algorithm (OPT) performs the best in terms of minim
 
 ## Author
 
-- Your Name
+- Ken Cage
 
 ## License
 
